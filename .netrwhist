@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/dhu/dev/clojure/lein/clj'
+let g:netrw_dirhist_2='/Users/dhu/work/webapp/build/testsuite'
+let g:netrw_dirhist_3='/Users/dhu/doc/git'
+let g:netrw_dirhist_4='/Users/dhu/.config/git/ignore'
